@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main()
-(
+{
     int i;
     string nama;
 
@@ -18,8 +18,9 @@ int main()
         cin >> nama[i]
     }
 
+
     cout << endl;
-        cout <<"==============" << endl;
+        cout <<"====================" << endl;
         cout <<"KUMPULAN NAMA - NAMA" << endl;
 
 
@@ -29,8 +30,7 @@ int main()
         cout << "Namanya adalah" << nama[i] << endl;
 
     }
+}
 
 
 
-
-)
