@@ -16,6 +16,6 @@ int main()
     }
     cout << "Bilangan" << bilangan << "adalah genap" << endl;
 
-
-
 }
+
+
